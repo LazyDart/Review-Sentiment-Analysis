@@ -3,3 +3,6 @@
 
 # Ignore gensim models
 *.gensim*
+
+# My support file used to easly manage versions.
+*file.py
