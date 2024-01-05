@@ -24,6 +24,8 @@ pip install -r requirements.txt
 
 After cloning the repository locally and installing dependencies data must be provided and put inside `./data folder`. It can be generated via Ceneo Scraper project. Follow instructions here(https://github.com/LazyDart/Ceneo-Scrape/blob/main/README.md)
 
+Last to use gensim model you need run "get_gensim_model.py" it will create a folder and download model from huggingface.
+
 ## Additional Information
 ### Versions
     gensim==4.3.2
