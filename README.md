@@ -38,6 +38,9 @@ Last to use gensim model you need run "get_gensim_model.py" it will create a fol
     spacy==3.7.2
     tensorflow==2.12.0
 
+### Results
+As of 05/01/2024. Model scores 90% Accuracy in discriminating between positive and negative reviews and 72% Accuracy in discriminating between positive, negative and neutral reviews.
+
 ### WIP
 Project is currently in HEAVY development stage. Alle the scripts and files change on day to day basis.
 
