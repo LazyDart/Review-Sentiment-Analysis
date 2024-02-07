@@ -1,5 +1,6 @@
 # Ignore .csv files
 *.csv
+*.pkl
 
 # Ignore gensim models
 *.gensim*
